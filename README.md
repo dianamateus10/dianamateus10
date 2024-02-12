@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diana Mateus.</h1>
 <h3 align="center">I am a Master's in Software Engineering student at Universidade do Minho, Portugal.</h3>
 
-- 🌱 I’m currently learning **Data Science and Computer Graphics.**
+- 🌱 I’m currently learning **Data Science and Computer Graphics**
 
-- 📫 How to reach me **dianarmateus1998@gmail.com.**
+- 📫 How to reach me **dianarmateus1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
